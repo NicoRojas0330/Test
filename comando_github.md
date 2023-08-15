@@ -3,3 +3,6 @@
 `git add .`
 2. hacer commit
 `git commit -m "esto es un commit"`
+
+3. subir cambios
+`git push`
