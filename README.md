@@ -1,2 +1,2 @@
 # Test
-practica 1
+Aprendiendo a manejar github
